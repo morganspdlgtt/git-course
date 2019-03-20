@@ -1,4 +1,5 @@
 # Github
 
 Arquivo da aula de Git e Github para iniciantes.
-caféééé
+Hmmmm...um cafézinho agora seria muito bom.
+Mas eu acabei de escovar os dentes :(
